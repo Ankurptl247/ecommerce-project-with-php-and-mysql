@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:opsz,wght@9..40,400;9..40,500;9..40,600;9..40,700&family=Poppins:wght@400;500;600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:opsz,wght@9..40,400;9..40,500;9..40,600;9..40,700&family=Open+Sans:wght@400;500;600&family=Poppins:wght@400;500;600&display=swap');
+
+.bg-blue {
+    background-color: #0769da;
+}
+
+.bg-blue1 {
+    background-color: #0573f0;
+}
+.pf{
+    font-family: 'Poppins', sans-serif;
+}
+.sf{
+    font-family: 'Open Sans', sans-serif;
+}
+.nav{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 17px;
+}
+.nav a{
+    color: whitesmoke;
+}
+.bg1{
+    background-image: url(webimg/electronic-store-hero-image.jpg);
+    background-position: center;
+    background-size: cover;
+}
+.info{
+    font-size: 13px;
+    color: #9b9999;
+
+}
+
+
+
+
+
+
+.h50{
+    height: 50px;
+}
+.h70{
+    height: 70px;
+}
+.h80{
+    height: 80px;
+}
+.h90{
+    height: 90px;
+}
+.h100{
+    height: 100px;
+}
+.h120{
+    height: 120px;
+}
+.h140{
+    height: 140px;
+}
+.h150{
+    height: 150px;
+}
+.h170{
+    height: 170px;
+}
+
